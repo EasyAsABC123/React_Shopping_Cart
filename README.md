@@ -1,7 +1,7 @@
 # React Shopping Cart (CodeLouFinalProject) - March 2020
 
 ## Overview
-Building a shopping cart that allows user to check the items online and order it and add to the list. It also allows to add items, update and remove the items. It is aimed to make the user easier and faster.This project is build using React and React-Router.
+Build a shopping cart app that allows user to check the items online and order it and add to the list. It also allows to add items, update and remove the items. It is aimed to make the user easier and faster.This project is build using React and React-Router.
 
 ## Technical Summary
 

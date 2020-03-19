@@ -1,4 +1,4 @@
-# React Shopping Cart (CodeLousiville-Final project) - March 2020
+# React Shopping Cart (CodeLouFinalProject) - March 2020
 
 ## Overview
 Building a shopping cart that allows user to check the items online and order it and add to the list. It also allows to add items, update and remove the items. It is aimed to make the user easier and faster.This project is build using React and React-Router.
@@ -45,5 +45,5 @@ Building a shopping cart that allows user to check the items online and order it
 -  Create a GitHub Repo and Start on a Project Plan
 -  Design Frontend layout
 -  Include required API's and verify it
--  Test for errors and bugs and correct it
+-  Test for errors and bugs and fix it
 -  Submit Project
